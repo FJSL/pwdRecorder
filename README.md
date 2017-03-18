@@ -1,2 +1,2 @@
 # pwdRecorder
-pwd recorder write by python
+这个python程序用来记录一下账号和密码　　
